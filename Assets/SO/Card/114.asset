@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b271d1f64c55a640a15ccb65de971c9, type: 3}
+  m_Name: 114
+  m_EditorClassIdentifier: 
+  id: 114
+  name: White Magical Hat
+  sprite: {fileID: 1252448607, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  description: 'A gentleman thief
+
+    that eludes the law
+
+    despite the fact
+
+    that
+    he sticks out
+
+    like a sore thumb
+
+    with his silk hat
+
+    and white
+    cape.'
+  starchipCost: 40
+  code: 15150365
+  attack: 1000
+  defense: 700
+  level: 3

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe1a7c9ea5aeb5b408c6851553151792, type: 3}
+  m_Name: 697
+  m_EditorClassIdentifier: 
+  id: 697
+  name: Garma Sword Oath
+  sprite: {fileID: -1293174565, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  description: 'Sacrifice the
+
+    Ashura''s Arm
+
+    and Sword-wielder
+
+    to
+    summon.'
+  starchipCost: 50
+  code: 78577570

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b271d1f64c55a640a15ccb65de971c9, type: 3}
+  m_Name: 397
+  m_EditorClassIdentifier: 
+  id: 397
+  name: Leghul
+  sprite: {fileID: 19443736, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  description: 'Not a very powerful
+
+    monster despite its
+
+    large fangs and
+
+    spikes.'
+  starchipCost: 15
+  code: 12472242
+  attack: 300
+  defense: 350
+  level: 1

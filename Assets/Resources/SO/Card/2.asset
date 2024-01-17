@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b271d1f64c55a640a15ccb65de971c9, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  id: 2
+  name: Mystical Elf
+  sprite: {fileID: -113959906, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  description: "A delicate elf that \r\nlacks in offense\r\nbut has a terrific\r\ndefense
+    backed by\r\nmystical power."
+  starchipCost: 160
+  code: 15025844
+  attack: 800
+  defense: 2000
+  level: 4

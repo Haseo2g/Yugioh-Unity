@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b271d1f64c55a640a15ccb65de971c9, type: 3}
+  m_Name: 21
+  m_EditorClassIdentifier: 
+  id: 21
+  name: Exodia the Forbidden
+  sprite: {fileID: -553873669, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  description: "Once combined with\r\narms and legs, this \r\nmonster is freed\r\nfrom
+    its magical\r\nchains.\r\nOnly one card of\r\nthis type may be\r\nincluded in
+    a deck."
+  starchipCost: 999999
+  code: 33396948
+  attack: 1000
+  defense: 1000
+  level: 3

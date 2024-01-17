@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b271d1f64c55a640a15ccb65de971c9, type: 3}
+  m_Name: 393
+  m_EditorClassIdentifier: 
+  id: 393
+  name: Zone Eater
+  sprite: {fileID: -916917186, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  description: 'A sea creature that
+
+    swallows enemies and
+
+    slowly digests
+    them.'
+  starchipCost: 10
+  code: 86100785
+  attack: 250
+  defense: 200
+  level: 1

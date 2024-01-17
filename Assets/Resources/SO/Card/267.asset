@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b271d1f64c55a640a15ccb65de971c9, type: 3}
+  m_Name: 267
+  m_EditorClassIdentifier: 
+  id: 267
+  name: Unknown Warrior of Fiend
+  sprite: {fileID: -2049577548, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  description: 'The speed of this
+
+    warrior creates
+
+    an intense vacuum
+
+    that
+    can actually
+
+    slice through
+
+    a monster''s hide.'
+  starchipCost: 30
+  code: 97360116
+  attack: 1000
+  defense: 500
+  level: 3

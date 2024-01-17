@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b271d1f64c55a640a15ccb65de971c9, type: 3}
+  m_Name: 373
+  m_EditorClassIdentifier: 
+  id: 373
+  name: Suijin
+  sprite: {fileID: 241623822, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  description: 'A golem that uses
+
+    water attacks like
+
+    the Labyrinth
+
+    Brothers.'
+  starchipCost: 999999
+  code: 98434877
+  attack: 2500
+  defense: 2400
+  level: 7

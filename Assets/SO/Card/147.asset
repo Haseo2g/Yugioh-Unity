@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b271d1f64c55a640a15ccb65de971c9, type: 3}
+  m_Name: 147
+  m_EditorClassIdentifier: 
+  id: 147
+  name: Monster Egg
+  sprite: {fileID: -1377777669, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  description: 'A warrior hidden
+
+    within an egg that
+
+    attacks enemies by
+
+    flinging
+    eggshells.'
+  starchipCost: 999999
+  code: 36121917
+  attack: 600
+  defense: 900
+  level: 3

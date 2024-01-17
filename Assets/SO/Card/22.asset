@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b271d1f64c55a640a15ccb65de971c9, type: 3}
+  m_Name: 22
+  m_EditorClassIdentifier: 
+  id: 22
+  name: Summoned Skull
+  sprite: {fileID: -1840297995, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  description: "An entity with dark\r\npowers for confusing\r\nthe enemy. Among the\r\nFIEND
+    class of\r\nmonsters, this is a \r\npretty rare card."
+  starchipCost: 999999
+  code: 70781052
+  attack: 2500
+  defense: 1200
+  level: 6

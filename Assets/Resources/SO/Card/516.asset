@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b271d1f64c55a640a15ccb65de971c9, type: 3}
+  m_Name: 516
+  m_EditorClassIdentifier: 
+  id: 516
+  name: Muka Muka
+  sprite: {fileID: 1469171461, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  description: 'A monster that
+
+    angers an opponent
+
+    to the point that
+
+    the
+    enemy goes
+
+    berserk.'
+  starchipCost: 20
+  code: 46657337
+  attack: 600
+  defense: 300
+  level: 2

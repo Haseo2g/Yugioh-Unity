@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b271d1f64c55a640a15ccb65de971c9, type: 3}
+  m_Name: 542
+  m_EditorClassIdentifier: 
+  id: 542
+  name: Misairuzame
+  sprite: {fileID: 935357428, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  description: 'A rocket-launching
+
+    fish protected
+
+    by thorny spikes.'
+  starchipCost: 200
+  code: 33178416
+  attack: 1400
+  defense: 1600
+  level: 5
