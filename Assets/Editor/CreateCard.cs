@@ -19,18 +19,18 @@ public class CreateCard
 
         List<CardJson> cards = JsonConvert.DeserializeObject<List<CardJson>>(targetFile.text);
 
-        Debug.Log("Começou");
+        Debug.Log("Comeï¿½ou");
         Sprite[] all = Resources.LoadAll<Sprite>("Images/Monsters");
 
         foreach (var card in cards)
         {
             Card c = CreateCardFromJson(card, all);
-            AssetDatabase.CreateAsset(c, $"Assets/SO/Card/{c.Id}.asset");
+            AssetDatabase.CreateAsset(c, $"Assets/Resources/SO/Card/{c.Id}.asset");
         }
         AssetDatabase.SaveAssets();
     }
 
-    private GuardianStar? GetStarGuardian(int value)
+    private GuardianStar GetStarGuardian(int value)
     {
         return value switch
         {
@@ -43,12 +43,11 @@ public class CreateCard
             7 => GuardianStar.MERCURY,
             8 => GuardianStar.SUN,
             9 => GuardianStar.MOON,
-            10 => GuardianStar.VENUS,
-            _ => null
+            _ => GuardianStar.VENUS,
         };
     }
 
-    private MonsterCardType? GetMonsterType(int value)
+    private MonsterCardType GetMonsterType(int value)
     {
         return value switch
         {
@@ -71,11 +70,10 @@ public class CreateCard
             16 => MonsterCardType.AQUA,
             17 => MonsterCardType.PYRO,
             18 => MonsterCardType.ROCK,
-            19 => MonsterCardType.PLANT,
-            _ => null
+            _ => MonsterCardType.PLANT,
         };
     }
-    private CardType? GetCardType(int value)
+    private CardType GetCardType(int value)
     {
         return value switch
         {
@@ -84,7 +82,7 @@ public class CreateCard
             22 => CardType.RITUAL,
             23 => CardType.EQUIP,
             24 => CardType.FIELD,
-            _ => null
+            _ => CardType.MONSTER
         };
     }
 
@@ -120,8 +118,17 @@ public class CreateCard
         } 
         else
         {
-            card.CardType = GetCardType(cardJson.Type);
-            return card;
+            BackCard backCard = ScriptableObject.CreateInstance<BackCard>();
+            backCard.CardType = GetCardType(cardJson.Type);
+
+            backCard.Id = card.Id;
+            backCard.Name = card.Name;
+            backCard.Description = card.Description;
+            backCard.StarchipCost = card.StarchipCost;
+            backCard.Code = card.Code;
+            backCard.Sprite = card.Sprite;
+
+            return backCard;
         }
     }
 }

@@ -25,9 +25,9 @@ public class MonsterCard : Card
     }
 
     [SerializeField]
-    private MonsterCardType? monsterCardType;
+    private MonsterCardType monsterCardType;
 
-    public MonsterCardType? MonsterCardType
+    public MonsterCardType MonsterCardType
     {
         get { return monsterCardType; }
         set { monsterCardType = value; }
@@ -43,18 +43,18 @@ public class MonsterCard : Card
     }
 
     [SerializeField]
-    private GuardianStar? guardianStar1;
+    private GuardianStar guardianStar1;
 
-    public GuardianStar? GuardianStar1
+    public GuardianStar GuardianStar1
     {
         get { return guardianStar1; }
         set { guardianStar1 = value; }
     }
 
     [SerializeField]
-    private GuardianStar? guardianStar2;
+    private GuardianStar guardianStar2;
 
-    public GuardianStar? GuardianStar2
+    public GuardianStar GuardianStar2
     {
         get { return guardianStar2; }
         set { guardianStar2 = value; }

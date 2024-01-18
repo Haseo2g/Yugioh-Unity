@@ -2,8 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CardDrop : MonoBehaviour
+public class CardDrop
 {
-    public Card Card { get; set; }
-    public int DropRate { get; set; }
+    public Rank Rank { get; set; }
+    public List<Drop> Cards { get; set; }
 }

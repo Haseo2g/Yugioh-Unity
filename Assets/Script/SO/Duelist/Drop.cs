@@ -4,6 +4,6 @@ using UnityEngine;
 
 public class Drop
 {
-    public Rank Rank { get; set; }
-    public List<CardDrop> Cards { get; set; }
+    public int CardId { get; set; }
+    public int DropRate { get; set; }
 }
