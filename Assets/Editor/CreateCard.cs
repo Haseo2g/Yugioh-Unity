@@ -19,7 +19,6 @@ public class CreateCard
 
         List<CardJson> cards = JsonConvert.DeserializeObject<List<CardJson>>(targetFile.text);
 
-        Debug.Log("Come�ou");
         Sprite[] all = Resources.LoadAll<Sprite>("Images/Monsters");
 
         foreach (var card in cards)
