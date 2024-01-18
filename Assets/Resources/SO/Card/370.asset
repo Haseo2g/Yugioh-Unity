@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 370
   name: Labyrinth Tank
   sprite: {fileID: 1044776568, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A tank that races
 
     around a labyrinth
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 99551425
   attack: 2400
   defense: 2400
+  monsterCardType: 14
   level: 7
+  guardianStar1: 1
+  guardianStar2: 2

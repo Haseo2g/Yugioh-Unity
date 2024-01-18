@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 289
   name: Change Slime
   sprite: {fileID: 1813025266, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A shape-shifting
 
     slime that is
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 18914778
   attack: 400
   defense: 300
+  monsterCardType: 16
   level: 1
+  guardianStar1: 5
+  guardianStar2: 1

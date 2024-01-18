@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 114
   name: White Magical Hat
   sprite: {fileID: 1252448607, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A gentleman thief
 
     that eludes the law
@@ -34,4 +35,7 @@ MonoBehaviour:
   code: 15150365
   attack: 1000
   defense: 700
+  monsterCardType: 1
   level: 3
+  guardianStar1: 0
+  guardianStar2: 6

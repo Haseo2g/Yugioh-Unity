@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 223
   name: Roaring Ocean Snake
   sprite: {fileID: 2083601888, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A massive
 
     sea serpent that
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 19066538
   attack: 2100
   defense: 1800
+  monsterCardType: 16
   level: 6
+  guardianStar1: 5
+  guardianStar2: 6

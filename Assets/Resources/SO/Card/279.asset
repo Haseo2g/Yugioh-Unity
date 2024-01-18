@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 279
   name: King Fog
   sprite: {fileID: 1807324053, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A spectre that
 
     dwells in a blinding
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 84686841
   attack: 1000
   defense: 900
+  monsterCardType: 7
   level: 3
+  guardianStar1: 2
+  guardianStar2: 5

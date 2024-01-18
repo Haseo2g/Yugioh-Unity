@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 558
   name: Pot the Trick
   sprite: {fileID: -1806851839, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A not very reliable
 
     sorcerer''s servant.'
@@ -22,4 +23,7 @@ MonoBehaviour:
   code: 55567161
   attack: 400
   defense: 400
+  monsterCardType: 18
   level: 2
+  guardianStar1: 1
+  guardianStar2: 9

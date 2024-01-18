@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 263
   name: Rock Ogre Grotto #2
   sprite: {fileID: -1568331143, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A stone golem
 
     that turns opponents

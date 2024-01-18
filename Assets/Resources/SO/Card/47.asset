@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 47
   name: Torike
   sprite: {fileID: 1675198826, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Not as tough as it
 
     looks in terms of
@@ -33,4 +34,7 @@ MonoBehaviour:
   code: 80813021
   attack: 1200
   defense: 600
+  monsterCardType: 5
   level: 3
+  guardianStar1: 8
+  guardianStar2: 0

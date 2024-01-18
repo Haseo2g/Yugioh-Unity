@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 39
   name: Curse of Dragon
   sprite: {fileID: -1745229522, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "A wicked dragon that\r\ntaps dark forces to \r\nexecute a powerful\r\nattack."
   starchipCost: 999999
   code: 28279543

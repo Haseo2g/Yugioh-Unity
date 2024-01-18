@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 638
   name: Queen of Autumn Leaves
   sprite: {fileID: 2138665730, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Queen of the
 
     Tree Spirit
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 04179849
   attack: 1800
   defense: 1500
+  monsterCardType: 19
   level: 5
+  guardianStar1: 9
+  guardianStar2: 1

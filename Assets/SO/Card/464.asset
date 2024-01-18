@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 464
   name: Wing Eagle
   sprite: {fileID: 413563972, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A hunter of the
 
     skies that has never

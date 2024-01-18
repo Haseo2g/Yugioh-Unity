@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 594
   name: Rose Spectre of Dunn
   sprite: {fileID: 2035800741, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A red rose possessed
 
     by a vile spirit
@@ -33,4 +34,7 @@ MonoBehaviour:
   code: 32485271
   attack: 2000
   defense: 1800
+  monsterCardType: 19
   level: 6
+  guardianStar1: 1
+  guardianStar2: 9

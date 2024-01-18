@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 293
   name: Masaki the Legendary Swordsman
   sprite: {fileID: 1569624242, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Legendary
 
     swordmaster and a
@@ -26,4 +27,7 @@ MonoBehaviour:
   code: 44287299
   attack: 1100
   defense: 1100
+  monsterCardType: 3
   level: 4
+  guardianStar1: 0
+  guardianStar2: 8

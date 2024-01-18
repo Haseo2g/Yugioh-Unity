@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 297
   name: Cyber Soldier of Darkworld
   sprite: {fileID: 1533974631, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An unstoppable
 
     mechanical soldier
@@ -26,4 +27,7 @@ MonoBehaviour:
   code: 75559356
   attack: 1400
   defense: 1200
+  monsterCardType: 14
   level: 4
+  guardianStar1: 1
+  guardianStar2: 8

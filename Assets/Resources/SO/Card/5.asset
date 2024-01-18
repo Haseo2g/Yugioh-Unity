@@ -15,10 +15,14 @@ MonoBehaviour:
   id: 5
   name: Ryu-kishin
   sprite: {fileID: -1989783549, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "A very elusive \r\ncreature that looks \r\nlike a harmless\r\nstatue
     until it\r\nattacks."
   starchipCost: 30
   code: 15303296
   attack: 1000
   defense: 500
+  monsterCardType: 7
   level: 3
+  guardianStar1: 7
+  guardianStar2: 0

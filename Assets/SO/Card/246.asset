@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 246
   name: One Who Hunts Souls
   sprite: {fileID: -1271240498, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A creature
 
     with a sword

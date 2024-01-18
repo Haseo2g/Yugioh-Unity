@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 707
   name: Skull Knight
   sprite: {fileID: -1835900183, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A monk
 
     who has conducted
@@ -33,4 +34,7 @@ MonoBehaviour:
   code: 02504891
   attack: 2650
   defense: 2250
+  monsterCardType: 1
   level: 7
+  guardianStar1: 2
+  guardianStar2: 5

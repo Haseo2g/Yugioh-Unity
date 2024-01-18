@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 420
   name: Cyber-Stein
   sprite: {fileID: -489809895, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Created in a
 
     basement lab, this
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 69015963
   attack: 700
   defense: 500
+  monsterCardType: 14
   level: 2
+  guardianStar1: 1
+  guardianStar2: 5

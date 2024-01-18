@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 611
   name: Hiro's Shadow Scout
   sprite: {fileID: -1070404626, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A servant of fiends
 
     used primarily for
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 81863068
   attack: 650
   defense: 500
+  monsterCardType: 7
   level: 2
+  guardianStar1: 1
+  guardianStar2: 7

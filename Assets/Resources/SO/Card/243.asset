@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 243
   name: Water Element
   sprite: {fileID: 436718611, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A water spirit
 
     that envelops
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 03732747
   attack: 900
   defense: 700
+  monsterCardType: 16
   level: 3
+  guardianStar1: 5
+  guardianStar2: 7

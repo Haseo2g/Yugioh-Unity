@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 107
   name: Kageningen
   sprite: {fileID: 2116687758, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Uses both its
 
     physical and shadow
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 80600490
   attack: 800
   defense: 600
+  monsterCardType: 3
   level: 2
+  guardianStar1: 1
+  guardianStar2: 6

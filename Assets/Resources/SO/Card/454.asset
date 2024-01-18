@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 454
   name: Destroyer Golem
   sprite: {fileID: 1784820987, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A golem with a
 
     massive right hand
@@ -26,4 +27,7 @@ MonoBehaviour:
   code: 73481154
   attack: 1500
   defense: 1000
+  monsterCardType: 18
   level: 4
+  guardianStar1: 8
+  guardianStar2: 0

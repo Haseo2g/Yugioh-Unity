@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 98
   name: Clown Zombie
   sprite: {fileID: -1467409758, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "A clown revived by\r\nthe powers of\r\ndarkness.\r\nIts strange dance\r\nhas
     sent many \r\nmonsters to their\r\nends."
   starchipCost: 140

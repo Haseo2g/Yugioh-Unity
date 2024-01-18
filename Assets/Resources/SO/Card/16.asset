@@ -15,10 +15,14 @@ MonoBehaviour:
   id: 16
   name: Time Wizard
   sprite: {fileID: 272642015, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "A sorcerer capable\r\nof bending time to\r\nhis will. Though not\r\npowerful
     at first\r\nglance, appearances \r\ncan be deceiving."
   starchipCost: 999999
   code: 71625222
   attack: 500
   defense: 400
+  monsterCardType: 1
   level: 2
+  guardianStar1: 3
+  guardianStar2: 0

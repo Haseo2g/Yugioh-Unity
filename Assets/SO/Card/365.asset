@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 365
   name: Fiend's Mirror
   sprite: {fileID: 1166267502, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An arcane glass
 
     that draws

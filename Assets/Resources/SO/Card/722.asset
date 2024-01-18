@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 722
   name: Magician of Black Chaos
   sprite: {fileID: -880090724, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'The ultimate
 
     magic-user,
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 30208479
   attack: 2800
   defense: 2600
+  monsterCardType: 1
   level: 8
+  guardianStar1: 2
+  guardianStar2: 6

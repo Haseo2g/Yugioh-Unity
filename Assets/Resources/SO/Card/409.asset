@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 409
   name: Metal Dragon
   sprite: {fileID: -1153989547, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A golden,
 
     fire-breathing
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 09293977
   attack: 1850
   defense: 1700
+  monsterCardType: 14
   level: 6
+  guardianStar1: 6
+  guardianStar2: 1

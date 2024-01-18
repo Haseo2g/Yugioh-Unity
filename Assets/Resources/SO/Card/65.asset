@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 65
   name: Silver Fang
   sprite: {fileID: -1188228738, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A snow wolf that''s
 
     beautiful to the eye
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 90357090
   attack: 1200
   defense: 800
+  monsterCardType: 5
   level: 3
+  guardianStar1: 9
+  guardianStar2: 0

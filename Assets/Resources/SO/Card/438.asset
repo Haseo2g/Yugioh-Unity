@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 438
   name: Metal Fish
   sprite: {fileID: 547495165, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A steel fish
 
     armed with a sharp
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 55998462
   attack: 1600
   defense: 1900
+  monsterCardType: 14
   level: 5
+  guardianStar1: 5
+  guardianStar2: 7

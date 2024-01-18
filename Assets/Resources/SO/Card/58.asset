@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 58
   name: Kuriboh
   sprite: {fileID: -66818784, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'By itself, this
 
     small creature may
@@ -33,4 +34,7 @@ MonoBehaviour:
   code: 40640057
   attack: 300
   defense: 200
+  monsterCardType: 7
   level: 1
+  guardianStar1: 2
+  guardianStar2: 7

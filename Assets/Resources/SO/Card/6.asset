@@ -15,10 +15,14 @@ MonoBehaviour:
   id: 6
   name: Feral Imp
   sprite: {fileID: 1709033512, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "A playful little \r\nimp that lurks in \r\nthe dark, waiting to\r\nattack
     an unwary\r\nenemy."
   starchipCost: 140
   code: 41392891
   attack: 1300
   defense: 1400
+  monsterCardType: 7
   level: 4
+  guardianStar1: 1
+  guardianStar2: 9

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 239
   name: Vishwar Randi
   sprite: {fileID: -32047226, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A woman warrior that
 
     serves the forces
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 78556320
   attack: 900
   defense: 700
+  monsterCardType: 3
   level: 3
+  guardianStar1: 2
+  guardianStar2: 8

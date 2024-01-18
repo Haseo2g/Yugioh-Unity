@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 635
   name: Queen's Double
   sprite: {fileID: -1985864031, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Not very useful
 
     double of a queen.'
@@ -22,4 +23,7 @@ MonoBehaviour:
   code: 05901497
   attack: 350
   defense: 300
+  monsterCardType: 3
   level: 1
+  guardianStar1: 8
+  guardianStar2: 1

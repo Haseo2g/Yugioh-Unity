@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 242
   name: Candle of Fate
   sprite: {fileID: 2085501268, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An opponent''s fate
 
     is decided

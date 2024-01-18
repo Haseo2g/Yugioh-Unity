@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 433
   name: Ancient Elf
   sprite: {fileID: 987348922, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'This elf is rumored
 
     to have lived for
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 93221206
   attack: 1450
   defense: 1200
+  monsterCardType: 1
   level: 4
+  guardianStar1: 0
+  guardianStar2: 4

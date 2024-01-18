@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 515
   name: The Statue of Easter Island
   sprite: {fileID: 1562517618, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A massive stone idol
 
     from Easter Island
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 10262698
   attack: 1100
   defense: 1400
+  monsterCardType: 18
   level: 4
+  guardianStar1: 8
+  guardianStar2: 3

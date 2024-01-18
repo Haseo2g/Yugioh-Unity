@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 417
   name: Blast Juggler
   sprite: {fileID: -1505459040, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A walking time
 
     device that loves
@@ -26,4 +27,7 @@ MonoBehaviour:
   code: 70138455
   attack: 800
   defense: 900
+  monsterCardType: 14
   level: 3
+  guardianStar1: 6
+  guardianStar2: 3

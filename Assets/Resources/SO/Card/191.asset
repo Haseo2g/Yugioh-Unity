@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 191
   name: LaLa Li-oon
   sprite: {fileID: 178593483, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Protected by thunder,
 
     this dangerous cloud
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 09430387
   attack: 600
   defense: 600
+  monsterCardType: 15
   level: 2
+  guardianStar1: 4
+  guardianStar2: 1

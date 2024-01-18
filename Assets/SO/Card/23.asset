@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 23
   name: The Wicked Worm Beast
   sprite: {fileID: 1998530617, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "A monster worm\r\ncreated by the\r\npowers of darkness. \r\nIt suddenly
     appears \r\nfrom under the\r\nground to attack its\r\nenemies."
   starchipCost: 60

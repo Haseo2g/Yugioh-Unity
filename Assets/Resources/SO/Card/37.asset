@@ -15,10 +15,14 @@ MonoBehaviour:
   id: 37
   name: Gaia the Dragon Champion
   sprite: {fileID: -1294499036, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "A warrior's prowess \r\ncombines with a\r\ndragon's speed to\r\ncreate
     a powerful\r\noffensive force."
   starchipCost: 999999
   code: 66889139
   attack: 2600
   defense: 2100
+  monsterCardType: 0
   level: 7
+  guardianStar1: 7
+  guardianStar2: 2

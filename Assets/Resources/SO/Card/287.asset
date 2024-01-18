@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 287
   name: Ogre of the Black Shadow
   sprite: {fileID: -1142868205, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An ogre possessed
 
     by the powers
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 45121025
   attack: 1200
   defense: 1400
+  monsterCardType: 4
   level: 4
+  guardianStar1: 1
+  guardianStar2: 7

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 71
   name: Jellyfish
   sprite: {fileID: -877795585, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An almost invisible,
 
     semi-transparent
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 14851496
   attack: 1200
   defense: 1500
+  monsterCardType: 16
   level: 4
+  guardianStar1: 5
+  guardianStar2: 2

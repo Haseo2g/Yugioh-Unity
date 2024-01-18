@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 76
   name: Krokodilus
   sprite: {fileID: 1288525322, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A vicious crocodile
 
     with intelligence.

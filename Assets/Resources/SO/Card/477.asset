@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 477
   name: Alinsection
   sprite: {fileID: -345549835, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A stag beetle
 
     monster with
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 70924884
   attack: 950
   defense: 700
+  monsterCardType: 9
   level: 3
+  guardianStar1: 9
+  guardianStar2: 1

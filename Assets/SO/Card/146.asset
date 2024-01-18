@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 146
   name: Temple of Skulls
   sprite: {fileID: -404656195, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A weird temple
 
     of skulls and bones

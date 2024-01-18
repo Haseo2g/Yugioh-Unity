@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 435
   name: Water Girl
   sprite: {fileID: 301298899, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A beautiful creature
 
     that flings icy
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 55014050
   attack: 1250
   defense: 1000
+  monsterCardType: 16
   level: 4
+  guardianStar1: 5
+  guardianStar2: 3

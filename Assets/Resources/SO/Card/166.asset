@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 166
   name: Mysterious Puppeteer
   sprite: {fileID: 1086844194, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A puppet master that
 
     manipulates enemies
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 54098121
   attack: 1000
   defense: 1500
+  monsterCardType: 3
   level: 4
+  guardianStar1: 8
+  guardianStar2: 2

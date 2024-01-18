@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 267
   name: Unknown Warrior of Fiend
   sprite: {fileID: -2049577548, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'The speed of this
 
     warrior creates
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 97360116
   attack: 1000
   defense: 500
+  monsterCardType: 3
   level: 3
+  guardianStar1: 2
+  guardianStar2: 6

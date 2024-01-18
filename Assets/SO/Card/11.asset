@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 11
   name: Sword Arm of Dragon
   sprite: {fileID: -340535213, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "With a body covered \r\nin sword-like\r\nthorns, nothing\r\ndares
     stand in the\r\nway of this monster \r\nwhen it charges."
   starchipCost: 1000

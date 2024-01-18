@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 526
   name: Neck Hunter
   sprite: {fileID: 1103595245, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Armed with a huge
 
     sickle, this monster
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 70084224
   attack: 1750
   defense: 1900
+  monsterCardType: 7
   level: 6
+  guardianStar1: 1
+  guardianStar2: 8

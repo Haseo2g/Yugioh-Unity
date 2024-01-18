@@ -9,12 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe1a7c9ea5aeb5b408c6851553151792, type: 3}
+  m_Script: {fileID: 11500000, guid: 7deac1919bc7a4eabb2b109495b10a9d, type: 3}
   m_Name: 661
   m_EditorClassIdentifier: 
   id: 661
   name: Crush Card
   sprite: {fileID: -207900644, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 2
   description: 'Opponent monsters
 
     in play with attack

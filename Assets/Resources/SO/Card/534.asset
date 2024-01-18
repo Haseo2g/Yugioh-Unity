@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 534
   name: Minar
   sprite: {fileID: 426608186, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A monster with four
 
     highly dexterous
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 32539892
   attack: 850
   defense: 750
+  monsterCardType: 9
   level: 3
+  guardianStar1: 1
+  guardianStar2: 5

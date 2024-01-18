@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 281
   name: Mystic Clown
   sprite: {fileID: 650699779, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Nothing can stop the
 
     mad attack of this
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 47060154
   attack: 1500
   defense: 1000
+  monsterCardType: 7
   level: 4
+  guardianStar1: 2
+  guardianStar2: 1

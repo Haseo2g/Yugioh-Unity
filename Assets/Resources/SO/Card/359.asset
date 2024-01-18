@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 359
   name: Three-legged Zombies
   sprite: {fileID: 502027325, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Bony and Tubby,
 
     a friendly pair
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 33734439
   attack: 1100
   defense: 800
+  monsterCardType: 2
   level: 3
+  guardianStar1: 1
+  guardianStar2: 4

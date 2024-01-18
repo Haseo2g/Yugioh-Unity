@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 502
   name: D. Human
   sprite: {fileID: -157634800, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Gifted with the
 
     power of dragons,
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 81057959
   attack: 1300
   defense: 1100
+  monsterCardType: 3
   level: 4
+  guardianStar1: 8
+  guardianStar2: 6

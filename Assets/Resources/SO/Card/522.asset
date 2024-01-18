@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 522
   name: Monstrous Bird
   sprite: {fileID: 1915080759, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A huge bird
 
     known for its sharp
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 35712107
   attack: 2000
   defense: 1900
+  monsterCardType: 6
   level: 6
+  guardianStar1: 7
+  guardianStar2: 2

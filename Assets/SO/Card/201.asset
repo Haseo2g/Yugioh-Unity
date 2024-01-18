@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 201
   name: Frenzied Panda
   sprite: {fileID: -465524554, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A savage beast
 
     that carries

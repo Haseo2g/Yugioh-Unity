@@ -15,10 +15,14 @@ MonoBehaviour:
   id: 546
   name: Wow Warrior
   sprite: {fileID: -1701324950, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "A massive beast\r\nof a fish with\r\narms, legs, and \r\nrazor-sharp
     teeth."
   starchipCost: 60
   code: 69750536
   attack: 1250
   defense: 900
+  monsterCardType: 12
   level: 4
+  guardianStar1: 5
+  guardianStar2: 6

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 28
   name: Rock Ogre Grotto #1
   sprite: {fileID: -612051276, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Protected by a solid
 
     body of rock, this

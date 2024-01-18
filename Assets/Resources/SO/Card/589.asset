@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 589
   name: Tentacle Plant
   sprite: {fileID: -1073167440, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Attacks a nearby
 
     opponent by reaching
@@ -26,4 +27,7 @@ MonoBehaviour:
   code: 60715406
   attack: 500
   defense: 600
+  monsterCardType: 19
   level: 2
+  guardianStar1: 9
+  guardianStar2: 4

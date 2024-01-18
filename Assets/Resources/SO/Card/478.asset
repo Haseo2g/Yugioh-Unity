@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 478
   name: Insect Soldiers of the Sky
   sprite: {fileID: -422180584, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Insect soldiers that
 
     attack in swarms.'
@@ -22,4 +23,7 @@ MonoBehaviour:
   code: 07019529
   attack: 1000
   defense: 800
+  monsterCardType: 9
   level: 3
+  guardianStar1: 7
+  guardianStar2: 5

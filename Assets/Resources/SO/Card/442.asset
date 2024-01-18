@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 442
   name: Aqua Dragon
   sprite: {fileID: -890465000, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A dragon that dwells
 
     in the sea. It is
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 86164529
   attack: 2250
   defense: 1900
+  monsterCardType: 13
   level: 6
+  guardianStar1: 5
+  guardianStar2: 1

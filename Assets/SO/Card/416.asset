@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 416
   name: Blocker
   sprite: {fileID: -1559044816, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Each separate part
 
     of this creature is

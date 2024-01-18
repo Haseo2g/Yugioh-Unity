@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 56
   name: Larvae Moth
   sprite: {fileID: 1753760129, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Not much in its
 
     larval form,
@@ -33,4 +34,7 @@ MonoBehaviour:
   code: 87756343
   attack: 500
   defense: 400
+  monsterCardType: 9
   level: 2
+  guardianStar1: 9
+  guardianStar2: 2

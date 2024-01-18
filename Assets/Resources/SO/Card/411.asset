@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 411
   name: Bat
   sprite: {fileID: 1711230139, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A mechanized bat
 
     that attacks
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 72076281
   attack: 300
   defense: 350
+  monsterCardType: 14
   level: 1
+  guardianStar1: 1
+  guardianStar2: 2

@@ -15,10 +15,14 @@ MonoBehaviour:
   id: 88
   name: Metal Guardian
   sprite: {fileID: 1140981202, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "A fiend guarding\r\nthe treasures of\r\nthe netherworld.\r\nIts defense
     is\r\nparticularly high in\r\n a dark environment."
   starchipCost: 290
   code: 68339286
   attack: 1150
   defense: 2150
+  monsterCardType: 7
   level: 5
+  guardianStar1: 1
+  guardianStar2: 2

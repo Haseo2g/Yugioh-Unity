@@ -15,10 +15,14 @@ MonoBehaviour:
   id: 9
   name: Shadow Specter
   sprite: {fileID: -1590794858, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "Ghostly beast that \r\nappears in the\r\nwasteland and is\r\nparticularly\r\ntroublesome
     when\r\nfaced in large\r\nnumbers."
   starchipCost: 15
   code: 40575313
   attack: 500
   defense: 200
+  monsterCardType: 2
   level: 1
+  guardianStar1: 1
+  guardianStar2: 7

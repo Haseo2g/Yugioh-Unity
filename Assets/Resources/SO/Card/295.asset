@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 295
   name: Bio Plant
   sprite: {fileID: -1141217509, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A monstrous creature
 
     born from a failed
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 07670542
   attack: 600
   defense: 1300
+  monsterCardType: 7
   level: 3
+  guardianStar1: 9
+  guardianStar2: 1

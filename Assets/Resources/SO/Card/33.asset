@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 33
   name: Judge Man
   sprite: {fileID: -1440538295, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'For this
 
     club-wielding
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 30113682
   attack: 2200
   defense: 1500
+  monsterCardType: 3
   level: 6
+  guardianStar1: 0
+  guardianStar2: 7

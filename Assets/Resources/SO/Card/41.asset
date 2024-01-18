@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 41
   name: Celtic Guardian
   sprite: {fileID: 442560321, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An elf, who learned
 
     to wield a sword,
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 91152256
   attack: 1400
   defense: 1200
+  monsterCardType: 3
   level: 4
+  guardianStar1: 0
+  guardianStar2: 8

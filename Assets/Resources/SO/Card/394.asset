@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 394
   name: Steel Scorpion
   sprite: {fileID: 1659636189, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An iron-tailed
 
     monster equipped
@@ -26,4 +27,7 @@ MonoBehaviour:
   code: 13599884
   attack: 250
   defense: 300
+  monsterCardType: 14
   level: 1
+  guardianStar1: 9
+  guardianStar2: 5

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 479
   name: Cockroach Knight
   sprite: {fileID: 658774861, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A cockroach warrior
 
     that hides in small
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 33413638
   attack: 800
   defense: 900
+  monsterCardType: 9
   level: 3
+  guardianStar1: 9
+  guardianStar2: 3

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 503
   name: Turtle Raccoon
   sprite: {fileID: -1856930813, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A fox-like creature
 
     with a protective
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 17441953
   attack: 700
   defense: 900
+  monsterCardType: 16
   level: 3
+  guardianStar1: 9
+  guardianStar2: 0

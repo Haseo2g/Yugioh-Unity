@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 561
   name: Lesser Dragon
   sprite: {fileID: -283435147, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A low-class, minor
 
     dragon incapable
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 55444629
   attack: 1200
   defense: 1000
+  monsterCardType: 0
   level: 4
+  guardianStar1: 1
+  guardianStar2: 7

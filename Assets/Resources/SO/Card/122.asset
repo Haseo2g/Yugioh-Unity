@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 122
   name: Yamatano Dragon Scroll
   sprite: {fileID: 1110127506, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'This dragon is
 
     conjured from
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 76704943
   attack: 900
   defense: 300
+  monsterCardType: 0
   level: 2
+  guardianStar1: 7
+  guardianStar2: 3

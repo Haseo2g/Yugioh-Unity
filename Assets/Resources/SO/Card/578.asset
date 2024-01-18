@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 578
   name: Leo Wizard
   sprite: {fileID: -1507691039, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A wizard with a
 
     black cape that is
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 04392470
   attack: 1350
   defense: 1200
+  monsterCardType: 1
   level: 5
+  guardianStar1: 2
+  guardianStar2: 5

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 719
   name: Dokurorider
   sprite: {fileID: 1978753636, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A lonely rider that
 
     races across the

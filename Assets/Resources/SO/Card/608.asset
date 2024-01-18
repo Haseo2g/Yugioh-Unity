@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 608
   name: Shining Friendship
   sprite: {fileID: 558792504, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'The peacemaker
 
     among monsters.'
@@ -22,4 +23,7 @@ MonoBehaviour:
   code: 82085619
   attack: 1300
   defense: 1100
+  monsterCardType: 8
   level: 4
+  guardianStar1: 0
+  guardianStar2: 8

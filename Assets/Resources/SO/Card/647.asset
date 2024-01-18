@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 647
   name: Hyosube
   sprite: {fileID: -1583688271, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'This amphibian
 
     creature boasts
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 02118022
   attack: 1500
   defense: 900
+  monsterCardType: 16
   level: 4
+  guardianStar1: 5
+  guardianStar2: 3

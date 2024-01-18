@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 419
   name: Giganto
   sprite: {fileID: -450329984, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'This creature swings
 
     around a huge spiked
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 33621868
   attack: 1700
   defense: 1800
+  monsterCardType: 14
   level: 5
+  guardianStar1: 1
+  guardianStar2: 8

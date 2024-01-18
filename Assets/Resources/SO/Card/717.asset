@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 717
   name: Javelin Beetle
   sprite: {fileID: -1787740450, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A creature with
 
     lethal scissors that
@@ -26,4 +27,7 @@ MonoBehaviour:
   code: 26932788
   attack: 2450
   defense: 2550
+  monsterCardType: 9
   level: 8
+  guardianStar1: 9
+  guardianStar2: 8

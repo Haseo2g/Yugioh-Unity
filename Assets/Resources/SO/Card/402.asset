@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 402
   name: Monster Eye
   sprite: {fileID: -647826336, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A servant that
 
     maintains a close
@@ -33,4 +34,7 @@ MonoBehaviour:
   code: 84133008
   attack: 250
   defense: 350
+  monsterCardType: 7
   level: 1
+  guardianStar1: 1
+  guardianStar2: 9

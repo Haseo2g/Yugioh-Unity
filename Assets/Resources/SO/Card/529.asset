@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 529
   name: Flame Cerebrus
   sprite: {fileID: 1717273104, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A flaming beast
 
     that is lethal
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 60862676
   attack: 2100
   defense: 1800
+  monsterCardType: 17
   level: 6
+  guardianStar1: 6
+  guardianStar2: 4

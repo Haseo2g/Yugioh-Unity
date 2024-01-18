@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 222
   name: Midnight Fiend
   sprite: {fileID: 1308224738, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A winged creature
 
     rumored to appear
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 83678433
   attack: 800
   defense: 600
+  monsterCardType: 7
   level: 2
+  guardianStar1: 1
+  guardianStar2: 5

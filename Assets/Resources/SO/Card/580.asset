@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 580
   name: Patrol Robo
   sprite: {fileID: -1776834418, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A cutting-edge robot
 
     that eliminates
@@ -26,4 +27,7 @@ MonoBehaviour:
   code: 76775123
   attack: 1100
   defense: 900
+  monsterCardType: 14
   level: 3
+  guardianStar1: 1
+  guardianStar2: 8

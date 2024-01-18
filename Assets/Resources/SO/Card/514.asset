@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 514
   name: Brave Scizzar
   sprite: {fileID: -1397621245, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A creature capable
 
     of manipulating
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 74277583
   attack: 1300
   defense: 1000
+  monsterCardType: 14
   level: 4
+  guardianStar1: 1
+  guardianStar2: 9

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 161
   name: M-warrior #2
   sprite: {fileID: -1027183096, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Specializing in
 
     combination attacks,
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 92731455
   attack: 500
   defense: 1000
+  monsterCardType: 3
   level: 3
+  guardianStar1: 8
+  guardianStar2: 3

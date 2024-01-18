@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 602
   name: Penguin Soldier
   sprite: {fileID: 1014436667, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A low-class penguin
 
     soldier that attacks

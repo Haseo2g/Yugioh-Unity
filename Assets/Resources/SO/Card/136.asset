@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 136
   name: Witty Phantom
   sprite: {fileID: -653863268, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Dressed in a
 
     night-black tuxedo,
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 36304921
   attack: 1400
   defense: 1300
+  monsterCardType: 7
   level: 4
+  guardianStar1: 2
+  guardianStar2: 6

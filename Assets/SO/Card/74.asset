@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 74
   name: Giant Soldier of Stone
   sprite: {fileID: -520495529, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A giant warrior made
 
     of stone. A punch

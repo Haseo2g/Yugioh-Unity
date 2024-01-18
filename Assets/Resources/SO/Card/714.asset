@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 714
   name: Firewing Pegasus
   sprite: {fileID: 1361690650, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A heavenly stallion
 
     that flies
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 27054370
   attack: 2250
   defense: 1800
+  monsterCardType: 5
   level: 6
+  guardianStar1: 6
+  guardianStar2: 1

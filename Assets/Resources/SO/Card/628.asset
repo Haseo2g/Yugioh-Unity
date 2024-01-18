@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 628
   name: Witch's Apprentice
   sprite: {fileID: -932489530, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An inexperienced
 
     witch who just
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 80741828
   attack: 550
   defense: 500
+  monsterCardType: 1
   level: 2
+  guardianStar1: 2
+  guardianStar2: 7

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 388
   name: Pendulum Machine
   sprite: {fileID: 1700203121, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A horrible torture
 
     machine with a large
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 24433920
   attack: 1750
   defense: 2000
+  monsterCardType: 14
   level: 6
+  guardianStar1: 2
+  guardianStar2: 5

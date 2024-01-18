@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 62
   name: Harpie Lady
   sprite: {fileID: -1679596819, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A human-shaped
 
     animal with wings.

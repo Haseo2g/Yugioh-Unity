@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 137
   name: Mystery Hand
   sprite: {fileID: -1033876486, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Twisting the fabric
 
     of reality, arms
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 62793020
   attack: 500
   defense: 500
+  monsterCardType: 7
   level: 2
+  guardianStar1: 1
+  guardianStar2: 8

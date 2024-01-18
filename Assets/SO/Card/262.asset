@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 262
   name: The Little Swordsman of Aile
   sprite: {fileID: -791378796, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An elf warrior
 
     mounted on a huge

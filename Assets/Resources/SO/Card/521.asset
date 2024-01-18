@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 521
   name: Skullbird
   sprite: {fileID: -264318470, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'The breath from this
 
     bird robs creatures
@@ -25,4 +26,7 @@ MonoBehaviour:
   code: 08327462
   attack: 1900
   defense: 1700
+  monsterCardType: 6
   level: 6
+  guardianStar1: 7
+  guardianStar2: 3

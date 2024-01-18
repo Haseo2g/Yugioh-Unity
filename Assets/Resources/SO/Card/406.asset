@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 406
   name: Yaiba Robo
   sprite: {fileID: -1511901639, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A machine
 
     with several blades
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 10315429
   attack: 1000
   defense: 1300
+  monsterCardType: 14
   level: 4
+  guardianStar1: 1
+  guardianStar2: 8

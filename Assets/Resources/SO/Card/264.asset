@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 264
   name: Wing Egg Elf
   sprite: {fileID: 369154196, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Hiding within its
 
     eggshell, this
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 98582704
   attack: 500
   defense: 1300
+  monsterCardType: 8
   level: 3
+  guardianStar1: 0
+  guardianStar2: 6

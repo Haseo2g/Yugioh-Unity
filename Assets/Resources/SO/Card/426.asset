@@ -15,10 +15,14 @@ MonoBehaviour:
   id: 426
   name: Stone D.
   sprite: {fileID: 857334755, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "With a body\r\nconsisting entirely\r\nof rocks, \r\nthis dragon\r\nflings
     boulders\r\nat its enemies."
   starchipCost: 900
   code: 68171737
   attack: 2000
   defense: 2300
+  monsterCardType: 18
   level: 7
+  guardianStar1: 8
+  guardianStar2: 6

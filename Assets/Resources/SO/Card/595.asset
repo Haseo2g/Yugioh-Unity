@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 595
   name: Fiend Refrection #1
   sprite: {fileID: 1651838811, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Drags enemies into
 
     a mirror world.'
@@ -22,4 +23,7 @@ MonoBehaviour:
   code: 68870276
   attack: 1300
   defense: 1400
+  monsterCardType: 6
   level: 4
+  guardianStar1: 3
+  guardianStar2: 9

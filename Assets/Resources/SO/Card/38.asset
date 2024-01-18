@@ -15,10 +15,14 @@ MonoBehaviour:
   id: 38
   name: Gaia the Fierce Knight
   sprite: {fileID: -1111160172, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "A knight mounted on \r\na horse that travels\r\nfaster than the wind.\r\nHis
     battle charge is\r\na force to be\r\nreckoned with."
   starchipCost: 999999
   code: 06368038
   attack: 2300
   defense: 2100
+  monsterCardType: 3
   level: 7
+  guardianStar1: 2
+  guardianStar2: 9

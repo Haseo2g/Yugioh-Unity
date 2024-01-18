@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 605
   name: Liquid Beast
   sprite: {fileID: 2087964076, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A liquid life form
 
     that moves freely
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 93108297
   attack: 950
   defense: 800
+  monsterCardType: 16
   level: 3
+  guardianStar1: 5
+  guardianStar2: 7

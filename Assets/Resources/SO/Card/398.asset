@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 398
   name: Ooguchi
   sprite: {fileID: 939913517, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A monstrous bullfrog
 
     with poison spikes.'
@@ -22,4 +23,7 @@ MonoBehaviour:
   code: 58861941
   attack: 300
   defense: 250
+  monsterCardType: 16
   level: 1
+  guardianStar1: 5
+  guardianStar2: 1

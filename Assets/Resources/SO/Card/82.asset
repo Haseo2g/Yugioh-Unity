@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 82
   name: Red-eyes B. Dragon
   sprite: {fileID: -1074549354, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A very rare card
 
     with a high-level
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 74677422
   attack: 2400
   defense: 2000
+  monsterCardType: 0
   level: 7
+  guardianStar1: 1
+  guardianStar2: 5

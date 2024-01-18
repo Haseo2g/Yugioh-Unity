@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 170
   name: Spirit of the Harp
   sprite: {fileID: -498694427, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A spirit that
 
     soothes the soul
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 80770678
   attack: 800
   defense: 2000
+  monsterCardType: 8
   level: 4
+  guardianStar1: 0
+  guardianStar2: 6

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 476
   name: Ganigumo
   sprite: {fileID: 905059381, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A spider armed with
 
     scissors to attack

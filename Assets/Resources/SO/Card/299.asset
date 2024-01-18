@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 299
   name: Sonic Maid
   sprite: {fileID: 1567539787, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A maiden
 
     that uses sound
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 38942059
   attack: 1200
   defense: 900
+  monsterCardType: 3
   level: 3
+  guardianStar1: 0
+  guardianStar2: 4

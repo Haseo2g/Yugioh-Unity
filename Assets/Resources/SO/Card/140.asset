@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 140
   name: Toad Master
   sprite: {fileID: 158248415, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Thousands of years
 
     old, this frog
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 62671448
   attack: 1000
   defense: 1000
+  monsterCardType: 16
   level: 3
+  guardianStar1: 5
+  guardianStar2: 3

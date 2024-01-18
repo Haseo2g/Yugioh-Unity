@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 45
   name: Oscillo Hero #2
   sprite: {fileID: 185216514, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Attacks its enemies
 
     with thunder.'

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 131
   name: Octoberser
   sprite: {fileID: -1858350535, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A strange creature
 
     with the head
@@ -33,4 +34,7 @@ MonoBehaviour:
   code: 74637266
   attack: 1600
   defense: 1400
+  monsterCardType: 16
   level: 5
+  guardianStar1: 5
+  guardianStar2: 1

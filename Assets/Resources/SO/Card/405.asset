@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 405
   name: Saber Slasher
   sprite: {fileID: -1452925703, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A rampaging machine
 
     that wields
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 73911410
   attack: 1450
   defense: 1500
+  monsterCardType: 14
   level: 5
+  guardianStar1: 1
+  guardianStar2: 7

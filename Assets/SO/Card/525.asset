@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 525
   name: Spirit of the Mountain
   sprite: {fileID: 1725711842, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "Music from this\r\ncreature's flute\r\ncan drain \r\nan enemy's willpower."
   starchipCost: 230
   code: 34690519

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 475
   name: Sinister Serpent
   sprite: {fileID: 72676211, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A flying poison
 
     snake that is
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 08131171
   attack: 300
   defense: 250
+  monsterCardType: 11
   level: 1
+  guardianStar1: 5
+  guardianStar2: 9

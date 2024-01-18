@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 171
   name: Big Eye
   sprite: {fileID: -10559181, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'This creature is
 
     covered with
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 16768387
   attack: 1200
   defense: 1000
+  monsterCardType: 7
   level: 4
+  guardianStar1: 3
+  guardianStar2: 5

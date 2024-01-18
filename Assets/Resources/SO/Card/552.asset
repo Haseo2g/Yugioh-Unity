@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 552
   name: Winged Dragon #2
   sprite: {fileID: -194901913, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Creates powerful
 
     tornadoes with
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 57405307
   attack: 1200
   defense: 1000
+  monsterCardType: 6
   level: 4
+  guardianStar1: 7
+  guardianStar2: 5

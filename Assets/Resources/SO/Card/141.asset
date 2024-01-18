@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 141
   name: Spiked Snail
   sprite: {fileID: 17017332, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Evolving from the
 
     powers of darkness,
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 98075147
   attack: 700
   defense: 1300
+  monsterCardType: 9
   level: 3
+  guardianStar1: 1
+  guardianStar2: 9

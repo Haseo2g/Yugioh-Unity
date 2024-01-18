@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 46
   name: Griffore
   sprite: {fileID: 1837875035, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'This creature''s
 
     tough hide deflects

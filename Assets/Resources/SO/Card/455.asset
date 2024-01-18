@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 455
   name: Barrel Rock
   sprite: {fileID: -142780590, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A monster that
 
     charges into enemies
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 10476868
   attack: 1000
   defense: 1300
+  monsterCardType: 18
   level: 4
+  guardianStar1: 8
+  guardianStar2: 1

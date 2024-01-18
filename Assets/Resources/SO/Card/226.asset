@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 226
   name: Skull Stalker
   sprite: {fileID: 340405510, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Swift and vicious,
 
     this monster grabs
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 54844990
   attack: 900
   defense: 800
+  monsterCardType: 3
   level: 3
+  guardianStar1: 1
+  guardianStar2: 6

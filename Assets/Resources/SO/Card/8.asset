@@ -15,10 +15,14 @@ MonoBehaviour:
   id: 8
   name: Mushroom Man
   sprite: {fileID: 784846975, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "Found in moist\r\nareas, this monster \r\nlaunches poison\r\nspores
     against its\r\nenemies."
   starchipCost: 30
   code: 14181608
   attack: 800
   defense: 600
+  monsterCardType: 19
   level: 2
+  guardianStar1: 9
+  guardianStar2: 0

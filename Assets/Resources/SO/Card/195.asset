@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 195
   name: Doron
   sprite: {fileID: -1489775747, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An unpredictable
 
     creature that splits
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 00756652
   attack: 900
   defense: 500
+  monsterCardType: 3
   level: 2
+  guardianStar1: 5
+  guardianStar2: 1

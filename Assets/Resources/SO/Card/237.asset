@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 237
   name: Haniwa
   sprite: {fileID: -1695652631, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An earthen doll
 
     that protects
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 84285623
   attack: 500
   defense: 500
+  monsterCardType: 18
   level: 2
+  guardianStar1: 8
+  guardianStar2: 9

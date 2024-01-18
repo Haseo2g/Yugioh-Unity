@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 516
   name: Muka Muka
   sprite: {fileID: 1469171461, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A monster that
 
     angers an opponent
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 46657337
   attack: 600
   defense: 300
+  monsterCardType: 18
   level: 2
+  guardianStar1: 8
+  guardianStar2: 2

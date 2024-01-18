@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 157
   name: Firegrass
   sprite: {fileID: 168417438, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A fire-breathing
 
     plant found growing
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 53293545
   attack: 700
   defense: 600
+  monsterCardType: 19
   level: 2
+  guardianStar1: 6
+  guardianStar2: 1

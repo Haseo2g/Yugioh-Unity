@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 492
   name: Hoshiningen
   sprite: {fileID: 1212249029, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Trailed by a
 
     beautiful tail, this

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 414
   name: Shovel Crusher
   sprite: {fileID: 224751547, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Armed with
 
     a pair of shovels,
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 71950093
   attack: 900
   defense: 1200
+  monsterCardType: 14
   level: 3
+  guardianStar1: 8
+  guardianStar2: 5

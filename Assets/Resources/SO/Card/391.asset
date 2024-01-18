@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 391
   name: Zoa
   sprite: {fileID: 1225497280, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A monster
 
     whose full potential
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 24311372
   attack: 2600
   defense: 1900
+  monsterCardType: 7
   level: 7
+  guardianStar1: 1
+  guardianStar2: 2

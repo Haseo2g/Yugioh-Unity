@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 207
   name: Droll Bird
   sprite: {fileID: 929049966, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'With a battle cry
 
     that curdles
@@ -33,4 +34,7 @@ MonoBehaviour:
   code: 97973387
   attack: 600
   defense: 500
+  monsterCardType: 6
   level: 2
+  guardianStar1: 7
+  guardianStar2: 1

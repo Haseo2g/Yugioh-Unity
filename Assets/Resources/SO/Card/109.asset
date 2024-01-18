@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 109
   name: Goddess with the Third Eye
   sprite: {fileID: -26782227, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A goddess with an
 
     all-seeing eye that
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 53493204
   attack: 1200
   defense: 1000
+  monsterCardType: 8
   level: 4
+  guardianStar1: 0
+  guardianStar2: 3

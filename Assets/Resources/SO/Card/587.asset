@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 587
   name: Mon Larvas
   sprite: {fileID: -702749517, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A highly evolved
 
     Larvas that is even
@@ -26,4 +27,7 @@ MonoBehaviour:
   code: 07225792
   attack: 1300
   defense: 1400
+  monsterCardType: 5
   level: 4
+  guardianStar1: 9
+  guardianStar2: 2

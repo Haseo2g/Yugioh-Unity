@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 451
   name: Kanikabuto
   sprite: {fileID: 1253410602, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A crab monster with
 
     two massive scissors

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 369
   name: Wall Shadow
   sprite: {fileID: 1212624134, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An unusually fast
 
     monster that sweeps
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 63162310
   attack: 1600
   defense: 3000
+  monsterCardType: 3
   level: 7
+  guardianStar1: 1
+  guardianStar2: 5

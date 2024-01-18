@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 162
   name: Tainted Wisdom
   sprite: {fileID: -96024973, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A parasite brain
 
     that preys
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 28725004
   attack: 1250
   defense: 800
+  monsterCardType: 7
   level: 3
+  guardianStar1: 1
+  guardianStar2: 2

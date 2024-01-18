@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 292
   name: Psychic Kappa
   sprite: {fileID: -895033991, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An amphibian with
 
     extrasensory powers

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 649
   name: Hibikime
   sprite: {fileID: -489627991, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Confuses enemy
 
     monsters with noise
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 64501875
   attack: 1450
   defense: 1000
+  monsterCardType: 3
   level: 4
+  guardianStar1: 2
+  guardianStar2: 8

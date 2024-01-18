@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 269
   name: Versago the Destroyer
   sprite: {fileID: 1143298442, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A lord of
 
     destruction

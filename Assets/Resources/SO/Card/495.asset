@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 495
   name: Musician King
   sprite: {fileID: -987195012, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A fantastic guitar
 
     player that attacks
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 56907389
   attack: 1750
   defense: 1500
+  monsterCardType: 1
   level: 5
+  guardianStar1: 0
+  guardianStar2: 6

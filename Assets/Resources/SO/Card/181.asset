@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 181
   name: Dark Shade
   sprite: {fileID: 1904428184, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Emits a dazzling
 
     light from its
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 40196604
   attack: 1000
   defense: 1000
+  monsterCardType: 7
   level: 3
+  guardianStar1: 7
+  guardianStar2: 6

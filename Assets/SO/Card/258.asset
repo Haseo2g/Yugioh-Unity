@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 258
   name: Beastking of the Swamps
   sprite: {fileID: -979071917, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'This creature
 
     changes the ground

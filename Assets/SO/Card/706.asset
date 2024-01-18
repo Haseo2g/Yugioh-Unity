@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 706
   name: Serpent Night Dragon
   sprite: {fileID: 317259975, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A dragon created
 
     from the soul

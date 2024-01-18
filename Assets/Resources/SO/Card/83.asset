@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 83
   name: Castle of Dark Illusions
   sprite: {fileID: 336628930, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A creature that can
 
     generate darkness to
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 00062121
   attack: 920
   defense: 1930
+  monsterCardType: 7
   level: 4
+  guardianStar1: 2
+  guardianStar2: 8

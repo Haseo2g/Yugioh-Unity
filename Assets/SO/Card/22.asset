@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 22
   name: Summoned Skull
   sprite: {fileID: -1840297995, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "An entity with dark\r\npowers for confusing\r\nthe enemy. Among the\r\nFIEND
     class of\r\nmonsters, this is a \r\npretty rare card."
   starchipCost: 999999

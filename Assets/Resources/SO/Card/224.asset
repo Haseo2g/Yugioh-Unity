@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 224
   name: Trap Master
   sprite: {fileID: -1324664641, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A warrior that
 
     excels in laying
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 46461247
   attack: 500
   defense: 1100
+  monsterCardType: 3
   level: 3
+  guardianStar1: 2
+  guardianStar2: 1

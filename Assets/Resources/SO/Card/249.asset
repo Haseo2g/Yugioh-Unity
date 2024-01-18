@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 249
   name: Water Omotics
   sprite: {fileID: 2035237232, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Transforms the water
 
     overflowing from a
@@ -26,4 +27,7 @@ MonoBehaviour:
   code: 02483611
   attack: 1400
   defense: 1200
+  monsterCardType: 16
   level: 4
+  guardianStar1: 5
+  guardianStar2: 1

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 380
   name: Blue-eyes Ultimate Dragon
   sprite: {fileID: 2087459367, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'The ultimate dragon
 
     formed by the fusion
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 23995346
   attack: 4500
   defense: 3800
+  monsterCardType: 0
   level: 12
+  guardianStar1: 0
+  guardianStar2: 3

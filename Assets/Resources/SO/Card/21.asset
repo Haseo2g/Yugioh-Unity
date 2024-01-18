@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 21
   name: Exodia the Forbidden
   sprite: {fileID: -553873669, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "Once combined with\r\narms and legs, this \r\nmonster is freed\r\nfrom
     its magical\r\nchains.\r\nOnly one card of\r\nthis type may be\r\nincluded in
     a deck."
@@ -22,4 +23,7 @@ MonoBehaviour:
   code: 33396948
   attack: 1000
   defense: 1000
+  monsterCardType: 1
   level: 3
+  guardianStar1: 2
+  guardianStar2: 5

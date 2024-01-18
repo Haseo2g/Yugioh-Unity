@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 135
   name: Fiend's Hand
   sprite: {fileID: -779989097, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Long arms reach out
 
     from the Swamp
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 52800428
   attack: 600
   defense: 600
+  monsterCardType: 2
   level: 2
+  guardianStar1: 1
+  guardianStar2: 4

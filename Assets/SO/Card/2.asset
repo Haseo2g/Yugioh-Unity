@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 2
   name: Mystical Elf
   sprite: {fileID: -113959906, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "A delicate elf that \r\nlacks in offense\r\nbut has a terrific\r\ndefense
     backed by\r\nmystical power."
   starchipCost: 160

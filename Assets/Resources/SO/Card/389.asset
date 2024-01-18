@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 389
   name: Giltia the D. Knight
   sprite: {fileID: -2095181598, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Armed with a
 
     soul-searing spear,
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 51828629
   attack: 1850
   defense: 1500
+  monsterCardType: 3
   level: 5
+  guardianStar1: 0
+  guardianStar2: 6

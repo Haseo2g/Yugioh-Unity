@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 524
   name: Star Boy
   sprite: {fileID: 916151710, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An extraterrestrial
 
     life form that loves
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 08201910
   attack: 550
   defense: 500
+  monsterCardType: 16
   level: 2
+  guardianStar1: 5
+  guardianStar2: 6

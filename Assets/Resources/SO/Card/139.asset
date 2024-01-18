@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 139
   name: Blue-eyed Silver Zombie
   sprite: {fileID: -1249107362, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A creature rumored
 
     to turn enemies
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 35282433
   attack: 900
   defense: 700
+  monsterCardType: 2
   level: 3
+  guardianStar1: 0
+  guardianStar2: 4

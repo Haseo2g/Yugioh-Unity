@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 413
   name: Cyber Soldier
   sprite: {fileID: -1149374496, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Round-shaped
 
     soldiers that roll
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 44865098
   attack: 1500
   defense: 1700
+  monsterCardType: 14
   level: 5
+  guardianStar1: 1
+  guardianStar2: 6

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 644
   name: Flame Viper
   sprite: {fileID: 1329884708, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A very swift,
 
     fire-breathing viper.'
@@ -22,4 +23,7 @@ MonoBehaviour:
   code: 02830619
   attack: 400
   defense: 450
+  monsterCardType: 17
   level: 2
+  guardianStar1: 6
+  guardianStar2: 4

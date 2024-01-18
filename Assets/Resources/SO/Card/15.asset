@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 15
   name: Flame Swordsman
   sprite: {fileID: -2051411517, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A fighter gifted
 
     with the power of
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 45231177
   attack: 1800
   defense: 1600
+  monsterCardType: 3
   level: 5
+  guardianStar1: 6
+  guardianStar2: 0

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 555
   name: Tyhone #2
   sprite: {fileID: -2048468510, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A crimson dragon
 
     that spits fireballs
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 56789759
   attack: 1700
   defense: 1900
+  monsterCardType: 0
   level: 6
+  guardianStar1: 6
+  guardianStar2: 8

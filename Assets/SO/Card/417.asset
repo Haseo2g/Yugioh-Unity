@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 417
   name: Blast Juggler
   sprite: {fileID: -1505459040, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A walking time
 
     device that loves

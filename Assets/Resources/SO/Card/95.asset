@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 95
   name: Crass Clown
   sprite: {fileID: -1688068173, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A performer
 
     in the Dark Circus,
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 93889755
   attack: 1350
   defense: 1400
+  monsterCardType: 7
   level: 4
+  guardianStar1: 3
+  guardianStar2: 9

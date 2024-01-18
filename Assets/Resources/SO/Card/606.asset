@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 606
   name: Twin Long Rods #2
   sprite: {fileID: 2071383624, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An undersea creature
 
     that attacks with
@@ -25,4 +26,7 @@ MonoBehaviour:
   code: 29692206
   attack: 850
   defense: 700
+  monsterCardType: 16
   level: 3
+  guardianStar1: 5
+  guardianStar2: 0

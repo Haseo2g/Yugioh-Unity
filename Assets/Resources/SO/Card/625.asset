@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 625
   name: Fairy of the Fountain
   sprite: {fileID: -2135395547, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A fairy dedicated to
 
     protecting fountains
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 81563416
   attack: 1600
   defense: 1100
+  monsterCardType: 16
   level: 4
+  guardianStar1: 5
+  guardianStar2: 3

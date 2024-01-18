@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 491
   name: Peacock
   sprite: {fileID: 1234164299, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A beautiful peacock-
 
     like creature that

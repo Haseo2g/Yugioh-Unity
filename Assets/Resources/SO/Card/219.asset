@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 219
   name: Solitude
   sprite: {fileID: -1326977004, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A beast-warrior that
 
     swings a massive
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 84794011
   attack: 1050
   defense: 1000
+  monsterCardType: 4
   level: 3
+  guardianStar1: 1
+  guardianStar2: 8

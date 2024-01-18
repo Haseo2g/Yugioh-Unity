@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 192
   name: Key Mace
   sprite: {fileID: -135590751, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A small angel
 
     whose cuteness
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 01929294
   attack: 400
   defense: 300
+  monsterCardType: 8
   level: 1
+  guardianStar1: 0
+  guardianStar2: 7

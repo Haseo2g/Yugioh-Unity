@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 357
   name: Yamadron
   sprite: {fileID: 1515032635, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A three-headed,
 
     fire-breathing
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 70345785
   attack: 1600
   defense: 1800
+  monsterCardType: 0
   level: 5
+  guardianStar1: 6
+  guardianStar2: 8

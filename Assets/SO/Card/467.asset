@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 467
   name: Crimson Sunbird
   sprite: {fileID: -1235112665, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A monster burning
 
     with crimson flames

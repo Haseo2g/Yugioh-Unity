@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 371
   name: Sanga of the Thunder
   sprite: {fileID: 432219604, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A golem that uses
 
     lightning attacks
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 25955164
   attack: 2600
   defense: 2200
+  monsterCardType: 15
   level: 7
+  guardianStar1: 4
+  guardianStar2: 6

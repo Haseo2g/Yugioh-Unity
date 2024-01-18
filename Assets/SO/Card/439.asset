@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 439
   name: Bottom Dweller
   sprite: {fileID: 1128296748, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A beautiful swimmer
 
     with a very nasty

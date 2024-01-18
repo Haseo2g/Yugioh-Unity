@@ -15,10 +15,14 @@ MonoBehaviour:
   id: 27
   name: Beaver Warrior
   sprite: {fileID: -1450452649, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "What this creature \r\nlacks in size,\r\nit makes up for\r\nin defense
     when\r\nbattling in the\r\nmeadow."
   starchipCost: 140
   code: 32452818
   attack: 1200
   defense: 1500
+  monsterCardType: 4
   level: 4
+  guardianStar1: 9
+  guardianStar2: 3

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 508
   name: Cyber Saurus
   sprite: {fileID: -116823196, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A mechanical
 
     dinosaur equipped
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 89112729
   attack: 1800
   defense: 1400
+  monsterCardType: 14
   level: 5
+  guardianStar1: 8
+  guardianStar2: 0

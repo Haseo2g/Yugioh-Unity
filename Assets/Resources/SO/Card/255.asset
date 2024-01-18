@@ -15,9 +15,13 @@ MonoBehaviour:
   id: 255
   name: Prevent Rat
   sprite: {fileID: -1277187473, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "This monster is\r\nshielded by \r\na hide covered\r\nin thick hair."
   starchipCost: 100
   code: 00549481
   attack: 500
   defense: 2000
+  monsterCardType: 5
   level: 4
+  guardianStar1: 9
+  guardianStar2: 8

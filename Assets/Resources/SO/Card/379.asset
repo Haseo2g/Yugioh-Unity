@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 379
   name: La Jinn the Mystical Genie
   sprite: {fileID: -1171677407, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A genie of the lamp
 
     that''s at the beck
@@ -26,4 +27,7 @@ MonoBehaviour:
   code: 97590747
   attack: 1800
   defense: 1000
+  monsterCardType: 7
   level: 4
+  guardianStar1: 2
+  guardianStar2: 7

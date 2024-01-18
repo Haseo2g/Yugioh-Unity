@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 164
   name: Lord of Zemia
   sprite: {fileID: 786382418, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A vile entity that
 
     deceives enemies
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 81618817
   attack: 1300
   defense: 1000
+  monsterCardType: 7
   level: 4
+  guardianStar1: 2
+  guardianStar2: 8

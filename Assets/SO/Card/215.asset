@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 215
   name: Flame Ghost
   sprite: {fileID: -1973797100, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A fiery spirit
 
     that burns anything

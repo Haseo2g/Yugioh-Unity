@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 570
   name: Trakadon
   sprite: {fileID: 1168867567, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A tiger-striped
 
     dragon that is often

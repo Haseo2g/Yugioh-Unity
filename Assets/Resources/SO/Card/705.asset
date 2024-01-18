@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 705
   name: Tri-horned Dragon
   sprite: {fileID: -1284043135, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A wicked dragon
 
     with three horns
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 39111158
   attack: 2850
   defense: 2350
+  monsterCardType: 0
   level: 8
+  guardianStar1: 1
+  guardianStar2: 9

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 463
   name: Electric Snake
   sprite: {fileID: 1462248843, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A serpent with a
 
     tail for storing

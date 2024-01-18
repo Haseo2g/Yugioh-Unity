@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 235
   name: Wodan the Resident of the Forest
   sprite: {fileID: -1141139157, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A warrior that has
 
     long resided in the

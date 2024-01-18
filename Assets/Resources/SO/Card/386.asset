@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 386
   name: Harpie's Pet Dragon
   sprite: {fileID: 180382354, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A favorite pet for
 
     harpies, but a very
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 52040216
   attack: 2000
   defense: 2500
+  monsterCardType: 0
   level: 7
+  guardianStar1: 7
+  guardianStar2: 1

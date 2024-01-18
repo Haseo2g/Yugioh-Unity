@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 265
   name: The Furious Sea King
   sprite: {fileID: -970862814, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Grand King of the
 
     Seven Seas.
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 18710707
   attack: 800
   defense: 700
+  monsterCardType: 16
   level: 3
+  guardianStar1: 5
+  guardianStar2: 9

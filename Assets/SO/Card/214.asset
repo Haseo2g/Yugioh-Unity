@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 214
   name: Kagemusha of the Blue Flame
   sprite: {fileID: -159508261, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Serves as a double
 
     for the ruler of the

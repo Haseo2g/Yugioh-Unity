@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 572
   name: Empress Judge
   sprite: {fileID: -161758572, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Empress of the
 
     Golden Kingdom. None
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 15237615
   attack: 2100
   defense: 1700
+  monsterCardType: 3
   level: 6
+  guardianStar1: 8
+  guardianStar2: 3

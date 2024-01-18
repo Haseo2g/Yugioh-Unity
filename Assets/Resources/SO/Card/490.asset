@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 490
   name: Needle Ball
   sprite: {fileID: -1373099703, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A ball covered in
 
     sharp needles.
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 94230224
   attack: 750
   defense: 700
+  monsterCardType: 7
   level: 2
+  guardianStar1: 1
+  guardianStar2: 8

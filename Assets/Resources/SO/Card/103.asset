@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 103
   name: Job-change Mirror
   sprite: {fileID: 381877158, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An indestructible,
 
     wicked mirror that
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 55337339
   attack: 800
   defense: 1300
+  monsterCardType: 7
   level: 3
+  guardianStar1: 2
+  guardianStar2: 6

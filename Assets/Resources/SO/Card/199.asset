@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 199
   name: Penguin Knight
   sprite: {fileID: 1839321627, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A penguin-like
 
     creature that slides
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 36039163
   attack: 900
   defense: 800
+  monsterCardType: 16
   level: 3
+  guardianStar1: 8
+  guardianStar2: 2

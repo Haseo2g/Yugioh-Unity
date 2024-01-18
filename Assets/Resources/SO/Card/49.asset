@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 49
   name: Big Insect
   sprite: {fileID: 1006784840, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A giant ant that
 
     dwells in the jungle.
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 53606874
   attack: 1200
   defense: 1500
+  monsterCardType: 9
   level: 4
+  guardianStar1: 9
+  guardianStar2: 8

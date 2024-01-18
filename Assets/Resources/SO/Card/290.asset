@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 290
   name: Moon Envoy
   sprite: {fileID: -1531922785, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A servant of the
 
     moon goddess,
@@ -33,4 +34,7 @@ MonoBehaviour:
   code: 45909477
   attack: 1100
   defense: 1000
+  monsterCardType: 3
   level: 4
+  guardianStar1: 1
+  guardianStar2: 7

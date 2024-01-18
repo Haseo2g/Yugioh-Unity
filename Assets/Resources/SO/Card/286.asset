@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 286
   name: Gatekeeper
   sprite: {fileID: 270151503, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'An indestructible
 
     machine
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 19737320
   attack: 1500
   defense: 1800
+  monsterCardType: 14
   level: 5
+  guardianStar1: 2
+  guardianStar2: 6

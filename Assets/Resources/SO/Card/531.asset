@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 531
   name: Mystical Sand
   sprite: {fileID: -267619323, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Turns enemies to
 
     stone and crushes
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 32751480
   attack: 2100
   defense: 1700
+  monsterCardType: 18
   level: 6
+  guardianStar1: 2
+  guardianStar2: 7

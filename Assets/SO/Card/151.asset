@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 151
   name: Rhaimundos of the Red Sword
   sprite: {fileID: 1406329266, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A warrior armed
 
     with the Sword

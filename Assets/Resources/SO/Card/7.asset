@@ -15,10 +15,14 @@ MonoBehaviour:
   id: 7
   name: Winged Dragon #1
   sprite: {fileID: 1643269336, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "A dragon commonly \r\nfound guarding \r\nmountain fortresses.\r\nIts
     signature attack\r\nis a sweeping dive \r\nfrom out of the blue."
   starchipCost: 999999
   code: 87796900
   attack: 1400
   defense: 1200
+  monsterCardType: 0
   level: 4
+  guardianStar1: 7
+  guardianStar2: 1

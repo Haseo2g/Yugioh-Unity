@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 252
   name: Nekogal #1
   sprite: {fileID: -669433625, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A cat creature that
 
     looks cute to the
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 01761063
   attack: 1100
   defense: 900
+  monsterCardType: 5
   level: 3
+  guardianStar1: 9
+  guardianStar2: 2

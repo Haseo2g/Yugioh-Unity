@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 26
   name: Battle Ox
   sprite: {fileID: 1255777940, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A monster with
 
     tremendous power.
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 05053103
   attack: 1700
   defense: 1000
+  monsterCardType: 4
   level: 4
+  guardianStar1: 9
+  guardianStar2: 1

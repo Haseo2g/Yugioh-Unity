@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 158
   name: Man Eater
   sprite: {fileID: -1632886363, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Man-eating plant
 
     with poison feelers
@@ -26,4 +27,7 @@ MonoBehaviour:
   code: 93553943
   attack: 800
   defense: 600
+  monsterCardType: 19
   level: 2
+  guardianStar1: 9
+  guardianStar2: 8

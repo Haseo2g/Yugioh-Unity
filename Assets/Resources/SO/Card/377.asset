@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 377
   name: Ryu-kishin Powered
   sprite: {fileID: -82320056, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Ryu-kishin enhanced
 
     by the powers of
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 24611934
   attack: 1600
   defense: 1200
+  monsterCardType: 7
   level: 4
+  guardianStar1: 1
+  guardianStar2: 9

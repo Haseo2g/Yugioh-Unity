@@ -15,10 +15,14 @@ MonoBehaviour:
   id: 197
   name: Mech Mole Zombie
   sprite: {fileID: 667184717, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "A creature of the\r\nnight that attacks\r\nenemies with its \r\nrocket-powered
     arms."
   starchipCost: 20
   code: 63545455
   attack: 500
   defense: 400
+  monsterCardType: 2
   level: 2
+  guardianStar1: 1
+  guardianStar2: 7

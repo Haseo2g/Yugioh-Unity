@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 254
   name: Embryonic Beast
   sprite: {fileID: -972793894, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A repulsive monster
 
     with a gaping belly
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 64154377
   attack: 500
   defense: 750
+  monsterCardType: 7
   level: 2
+  guardianStar1: 1
+  guardianStar2: 6

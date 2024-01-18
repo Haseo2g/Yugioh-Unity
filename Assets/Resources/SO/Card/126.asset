@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 126
   name: Orion the Battle King
   sprite: {fileID: 29835447, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A mysterious
 
     creature known as
@@ -33,4 +34,7 @@ MonoBehaviour:
   code: 02971090
   attack: 1800
   defense: 1500
+  monsterCardType: 8
   level: 5
+  guardianStar1: 0
+  guardianStar2: 7

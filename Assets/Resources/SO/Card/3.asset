@@ -15,10 +15,14 @@ MonoBehaviour:
   id: 3
   name: Hitotsu-me Giant
   sprite: {fileID: -2090445739, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "A one-eyed behemoth \r\nwith thick, powerful\r\narms made for\r\ndelivering
     punishing\r\nblows."
   starchipCost: 70
   code: 76184692
   attack: 1200
   defense: 1000
+  monsterCardType: 4
   level: 4
+  guardianStar1: 1
+  guardianStar2: 6

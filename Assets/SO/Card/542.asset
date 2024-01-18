@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 542
   name: Misairuzame
   sprite: {fileID: 935357428, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A rocket-launching
 
     fish protected

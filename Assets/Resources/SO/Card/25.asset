@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 25
   name: Horn Imp
   sprite: {fileID: 561610196, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A small imp that
 
     dwells in the dark.
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 69669405
   attack: 1300
   defense: 1000
+  monsterCardType: 7
   level: 4
+  guardianStar1: 1
+  guardianStar2: 2

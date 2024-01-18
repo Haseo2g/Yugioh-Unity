@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 130
   name: Weather Control
   sprite: {fileID: 1883437766, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'This monster is
 
     capable of
@@ -33,4 +34,7 @@ MonoBehaviour:
   code: 37243151
   attack: 600
   defense: 400
+  monsterCardType: 8
   level: 2
+  guardianStar1: 0
+  guardianStar2: 4

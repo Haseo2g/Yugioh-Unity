@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 545
   name: Skelgon
   sprite: {fileID: -2054138866, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A skeletal zombie
 
     dragon that is
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 32355828
   attack: 1700
   defense: 1900
+  monsterCardType: 2
   level: 6
+  guardianStar1: 1
+  guardianStar2: 4

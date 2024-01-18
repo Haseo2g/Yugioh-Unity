@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 119
   name: Trial of Nightmares
   sprite: {fileID: -701448743, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Passes judgment on
 
     enemies that are
@@ -24,4 +25,7 @@ MonoBehaviour:
   code: 77827521
   attack: 1300
   defense: 900
+  monsterCardType: 7
   level: 4
+  guardianStar1: 1
+  guardianStar2: 4

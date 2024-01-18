@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 198
   name: Happy Lover
   sprite: {fileID: -1894171132, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A little angel
 
     that fires beams
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 99030164
   attack: 800
   defense: 500
+  monsterCardType: 8
   level: 2
+  guardianStar1: 0
+  guardianStar2: 8

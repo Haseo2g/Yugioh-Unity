@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 75
   name: Man-eating Plant
   sprite: {fileID: 1283263642, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A meat-eating plant
 
     that is attractive
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 49127943
   attack: 800
   defense: 600
+  monsterCardType: 19
   level: 2
+  guardianStar1: 2
+  guardianStar2: 9

@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 581
   name: Takuhee
   sprite: {fileID: 1454559237, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'This bird is
 
     a precursor

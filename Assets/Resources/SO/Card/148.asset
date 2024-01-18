@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 148
   name: The Shadow Who Controls the Dark
   sprite: {fileID: 1365009318, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A living shadow
 
     that dwells in the
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 63125616
   attack: 800
   defense: 700
+  monsterCardType: 7
   level: 3
+  guardianStar1: 2
+  guardianStar2: 9

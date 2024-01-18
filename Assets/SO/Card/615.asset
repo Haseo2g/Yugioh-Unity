@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 615
   name: Armored Starfish
   sprite: {fileID: -458699133, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A bluish starfish
 
     with a solid hide

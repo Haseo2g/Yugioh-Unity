@@ -15,9 +15,13 @@ MonoBehaviour:
   id: 35
   name: Dark Magician
   sprite: {fileID: -1887060990, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: "The ultimate wizard \r\nin terms of attack\r\nand defense."
   starchipCost: 999999
   code: 46986414
   attack: 2500
   defense: 2100
+  monsterCardType: 1
   level: 7
+  guardianStar1: 2
+  guardianStar2: 6

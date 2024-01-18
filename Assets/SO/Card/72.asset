@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 72
   name: Cocoon of Evolution
   sprite: {fileID: 262884000, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'This creature is
 
     capable of instantly

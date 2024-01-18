@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 57
   name: Great Moth
   sprite: {fileID: 550814760, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A powerful creature
 
     of the forest, this
@@ -31,4 +32,7 @@ MonoBehaviour:
   code: 14141448
   attack: 2600
   defense: 2500
+  monsterCardType: 9
   level: 8
+  guardianStar1: 9
+  guardianStar2: 8

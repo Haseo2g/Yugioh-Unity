@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 204
   name: Mabarrel
   sprite: {fileID: 1498682242, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A cannon-like
 
     monster that rapidly
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 98795934
   attack: 1700
   defense: 1400
+  monsterCardType: 7
   level: 5
+  guardianStar1: 1
+  guardianStar2: 5

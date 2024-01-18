@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 544
   name: Dharma Cannon
   sprite: {fileID: 578398789, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A highly accurate
 
     mechanical monster
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 96967123
   attack: 900
   defense: 500
+  monsterCardType: 14
   level: 2
+  guardianStar1: 1
+  guardianStar2: 2

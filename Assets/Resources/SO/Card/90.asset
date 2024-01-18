@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 90
   name: Gyakutenno Megami
   sprite: {fileID: -2061646785, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Uses her mystical
 
     power to protect the
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 31122090
   attack: 1800
   defense: 2000
+  monsterCardType: 8
   level: 6
+  guardianStar1: 0
+  guardianStar2: 5

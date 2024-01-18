@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 536
   name: Mechaleon
   sprite: {fileID: -1011758045, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A chameleon-like
 
     monster that can
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 94412545
   attack: 800
   defense: 600
+  monsterCardType: 11
   level: 2
+  guardianStar1: 5
+  guardianStar2: 7

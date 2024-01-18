@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 568
   name: Anthrosaurus
   sprite: {fileID: -477725878, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Man-like dinosaur
 
     lacking in strength,
@@ -25,4 +26,7 @@ MonoBehaviour:
   code: 89904598
   attack: 1000
   defense: 850
+  monsterCardType: 10
   level: 3
+  guardianStar1: 8
+  guardianStar2: 1

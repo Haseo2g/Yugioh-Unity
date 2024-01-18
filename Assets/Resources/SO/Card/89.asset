@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 89
   name: Catapult Turtle
   sprite: {fileID: 2133751790, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Well-protected by
 
     its shell, this
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 95727991
   attack: 1000
   defense: 2000
+  monsterCardType: 16
   level: 5
+  guardianStar1: 5
+  guardianStar2: 0

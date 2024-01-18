@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 248
   name: Master & Expert
   sprite: {fileID: 1039618699, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A fearsome duo
 
     consisting of a
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 75499502
   attack: 1200
   defense: 1000
+  monsterCardType: 5
   level: 4
+  guardianStar1: 9
+  guardianStar2: 3

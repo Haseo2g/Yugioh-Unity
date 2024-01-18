@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 422
   name: Jinzo #7
   sprite: {fileID: 4474392, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Created in an
 
     underground lab,
@@ -29,4 +30,7 @@ MonoBehaviour:
   code: 32809211
   attack: 500
   defense: 400
+  monsterCardType: 14
   level: 2
+  guardianStar1: 1
+  guardianStar2: 6

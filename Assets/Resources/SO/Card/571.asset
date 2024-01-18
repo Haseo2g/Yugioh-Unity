@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 571
   name: B. Dragon Jungle King
   sprite: {fileID: 857980372, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A jet-black dragon
 
     that inhabits the
@@ -27,4 +28,7 @@ MonoBehaviour:
   code: 89832901
   attack: 2100
   defense: 1800
+  monsterCardType: 0
   level: 6
+  guardianStar1: 9
+  guardianStar2: 5

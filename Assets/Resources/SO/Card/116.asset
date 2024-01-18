@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 116
   name: Nightmare Scorpion
   sprite: {fileID: 1692104805, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'A very toxic
 
     creature that
@@ -33,4 +34,7 @@ MonoBehaviour:
   code: 88643173
   attack: 900
   defense: 800
+  monsterCardType: 9
   level: 3
+  guardianStar1: 8
+  guardianStar2: 5

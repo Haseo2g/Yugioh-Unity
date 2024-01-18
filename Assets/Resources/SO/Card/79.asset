@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 79
   name: Megazowler
   sprite: {fileID: -983106417, guid: 73ec6eae0ca75ce4e9664378f6c0eec7, type: 3}
+  cardType: 0
   description: 'Nothing stands in
 
     the way of this
@@ -26,4 +27,7 @@ MonoBehaviour:
   code: 75390004
   attack: 1800
   defense: 2000
+  monsterCardType: 10
   level: 6
+  guardianStar1: 8
+  guardianStar2: 5
